@@ -587,4 +587,4 @@ function add(strId)
 	}
 }*/
 
-bot.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
